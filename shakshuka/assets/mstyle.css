@@ -40,6 +40,10 @@ body {
     outline: none;
 }
 
+#reviews h2:first-child, #directions {
+    color: blue
+}
+
 #review-form .input2 {
     background-color : gold;
 }
