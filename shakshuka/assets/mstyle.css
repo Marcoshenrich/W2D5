@@ -64,6 +64,10 @@ input[type=radio]{
     vertical-align:bottom
 }
 
+.ingredients-list li:last-child {
+    background-color: red;
+}
+
 input[type=radio]:hover{background-position:30px 60px}
 input[type=radio]:checked{background-position:30px 30px}
 input:last-child{background:gold}
