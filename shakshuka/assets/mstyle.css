@@ -72,6 +72,11 @@ input[type=radio]{
     background-color: red;
 }
 
+.ingredients-list li:first-child + li {
+    color: white;
+}
+
+
 input[type=radio]:hover{background-position:30px 60px}
 input[type=radio]:checked{background-position:30px 30px}
 input:last-child{background:gold}
