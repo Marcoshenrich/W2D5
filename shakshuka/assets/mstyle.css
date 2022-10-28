@@ -92,6 +92,11 @@ figure {
     text-align: center;
 }
 
+.ingredients-list li:nth-child(even) {
+    text-align: right;
+}
+
+
 
 input[type=radio]:hover{background-position:30px 60px}
 input[type=radio]:checked{background-position:30px 30px}
