@@ -80,6 +80,11 @@ input[type=radio]{
     color: white;
 }
 
+figure {
+    padding: 20px;
+}
+
+
 
 input[type=radio]:hover{background-position:30px 60px}
 input[type=radio]:checked{background-position:30px 30px}
