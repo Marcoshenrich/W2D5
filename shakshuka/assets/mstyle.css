@@ -72,6 +72,10 @@ input[type=radio]{
     vertical-align:bottom
 }
 
+body section:nth-child(3) h1:first-child {
+    text-align: center;
+}
+
 .ingredients-list li:last-child {
     background-color: red;
 }
