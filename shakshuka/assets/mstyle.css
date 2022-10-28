@@ -88,6 +88,9 @@ figure {
     padding: 20px;
 }
 
+.ingredients-list li:nth-child(odd) {
+    text-align: center;
+}
 
 
 input[type=radio]:hover{background-position:30px 60px}
